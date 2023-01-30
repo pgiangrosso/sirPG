@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Philip Giangrosso 
-- 👀 I’m currently interested in data analytics  
-- 🌱 I’m currently learning SQL as well as data visualization tools such as Tableau and soon PowerBI
+- 👀 I’m currently interested in data visualization and analysis   
+- 🌱 I’m currently learning Postgresql as well as Tableau 
 - 💞️ I’m looking to collaborate on interesting financial or projects where visuals are needed
-- 📫 You can reach me via my emal: philipgian97@gmail.com
+- 📫 You can reach me via my emal: pgiangrosso33@gmail.com
 
 <!---
 sirPG/sirPG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
