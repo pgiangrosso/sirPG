@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Philip Giangrosso 
 - 👀 I’m currently interested in data visualization and analysis   
-- 🌱 I’m currently learning Postgresql as well as Tableau 
+- 🌱 I’m currently learning R 
 - 💞️ I’m looking to collaborate on interesting financial or projects where visuals are needed
 - 📫 You can reach me via my emal: pgiangrosso33@gmail.com
 
